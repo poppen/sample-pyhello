@@ -1,6 +1,6 @@
 def hello_world():
-    print('Hello World!')
+    return 'Hello World!'
 
 
 def hello_to(name):
-    print(f'Hello {name}')
+    return f'Hello {name}'
